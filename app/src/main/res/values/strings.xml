@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">instagram</string>
+    <string name="bttnText1">Змінити фото</string>
+    <string name="tvName1">Максим Кунілов</string>
+    <string name="tvStatus1">Статус у відпустці</string>
+    <string name="tvInfo1">День народження: 21 жовтня</string>
+    <string name="tvInfo2">Особиста інформація</string>
+    <string name="tvInfo3">Рідне місто: Дніпро</string>
+    <string name="tvInfo4">Мобільний телефон: 0663641462</string>
+    <string name="tvInfo5">Улюблена гра: Counter-Strike</string>
+    <string name="tvPhoto1">Світлини</string>
+    <string name="bttnText2">Всі світлини</string>
+    <string name="tvFriends1">Друзі</string>
+    <string name="tvName2">Вікторія Волох</string>
+    <string name="tvName3">Максим Соколов</string>
+    <string name="tvName4">Валентин Гончаренко</string>
+    <string name="tvName5">Максим Головко</string>
+</resources>

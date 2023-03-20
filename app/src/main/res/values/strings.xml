@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">instagram</string>
-    <string name="bttnText1">Змінити фото</string>
+    <string name="bttnText1">Редагувати профіль</string>
     <string name="tvName1">Максим Кунілов</string>
     <string name="tvStatus1">Статус у відпустці</string>
     <string name="tvInfo1">День народження: 21 жовтня</string>

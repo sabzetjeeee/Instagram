@@ -15,4 +15,10 @@
     <string name="tvName3">Максим Соколов</string>
     <string name="tvName4">Валентин Гончаренко</string>
     <string name="tvName5">Максим Головко</string>
+    <string name="bttnSave">Зберегти</string>
+    <string name="etName">Введіть ім\'я</string>
+    <string name="etSurname">Введіть прізвище</string>
+    <string name="bttnLogIn">Увійти</string>
+    <string name="etHint1">Введіть логін</string>
+    <string name="etHint2">Введіть пароль</string>
 </resources>
